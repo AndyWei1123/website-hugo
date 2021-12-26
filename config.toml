@@ -188,11 +188,12 @@ copyright = "七仔"            # default: author.name ↓        # 默认为下
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:weiweiandy1999@gmail.com"
+    m-instagram = "https://www.instagram.com/7even_guy/"
     d-facebook = "https://www.facebook.com/weiweiandy1999/"
     e-linkedin = "https://www.linkedin.com/in/%E5%81%A5%E5%AE%89-%E9%AD%8F-997a051a9/"
     g-github = "https://github.com/AndyWei1123"
-    m-instagram = "https://www.instagram.com/wei_chien_an/"
+    a-email = "mailto:weiweiandy1999@gmail.com"
+    
 
 
 # See https://gohugo.io/about/hugo-and-gdpr/
