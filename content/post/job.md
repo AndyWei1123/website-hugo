@@ -12,7 +12,7 @@ description: "進中文系未來到底可以做什麼？我想這是很多中文
 categories:
 - "七仔札記"
 ---
-![封面寫作的人](https://imgur.com/k2q761g)
+![封面寫作的人](https://imgur.com/a/UaMDS3r.jpg)
 
 其實我原本是個非常不會寫作的人，但沒想到我竟然能在外面接到寫作相關的案子，還不只一個！  
 
