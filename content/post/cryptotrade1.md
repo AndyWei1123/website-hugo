@@ -1,6 +1,6 @@
 ---
 title: "幣圈瘋狗流為什麼有用？(目前還在測試中，目前勝率 80%)｜七仔札記"
-date: 2022-03-14 00:00:50
+date: 2022-03-15 00:00:50
 draft: false
 tags: 
     - "交易"
@@ -16,8 +16,8 @@ description: "加密貨幣有著「幣圈一天，人間一年」的恐怖傳說
 categories:
 - "七仔交易紀錄"
 ---
-![](https://i.imgur.com/L53FDdf.png)
-![](https://i.imgur.com/IzIlp4j.png)
+![實際操作獲利，未平倉時1](https://i.imgur.com/L53FDdf.png)
+![實際操作獲利，未平倉時2](https://i.imgur.com/IzIlp4j.png)
 (圖：實際操作獲利，未平倉時)
 
 加密貨幣有著「幣圈一天，人間一年」的恐怖傳說，在還沒踏進來之前我也是覺得幣圈好可怕，萬一買到垃圾幣怎麼辦？不想起床我的幣都跌超過一半...
@@ -75,29 +75,29 @@ MACD 可以幫我看現在是多頭還是空頭，順勢指標(或 OBV)可以幫
 
 ## 目前績效
 現在試過 5 次，除了一次是測試如果週線不是多頭這樣可行嗎(很小的單)，結果虧了 30 幾%外，其他都有 30% 以上的報酬，(補對帳單)還有一筆 100% 報酬的。  
-(第五次請詳見下一篇文，測試分批進場、出場)
+(第五次請詳見[下一篇文](https://andywei1123.github.io/post/cryptotrade2/)，測試分批進場、出場)
 
 雖然我前面講的這樣好像有點對幣圈沒信心，但我其實沒有看衰幣圈，而是因為震盪太大，才想出這個能夠獲利，並且能參與每次上漲的方法。  
 我昨天才開始用這個策略，合約帳戶從 300 元現在已經到 469+19=488 元，賺了 188 USD。
 (更：現在總合約帳戶已經 578 USDT 了，+92%)
-![](https://i.imgur.com/xpBw7qU.png)
-![](https://i.imgur.com/O5WtdeN.png)
-![](https://i.imgur.com/SduWOF6.png)
+![合約帳戶損益](https://i.imgur.com/xpBw7qU.png)
+![合約帳戶轉出](https://i.imgur.com/O5WtdeN.png)
+![後面總損益](https://i.imgur.com/SduWOF6.png)
 
 交易紀錄
 1.RUNEUSDT：買 6.889/賣 7.0710，獲利：2.6%，20X槓桿：52% 【+38.837 USD】
-![](https://i.imgur.com/LfH899h.png)
+![RUNEUSDT交易紀錄](https://i.imgur.com/LfH899h.png)
 
 2.OGNUSDT：買 0.3823/賣 0.4125，獲利：7.8%，20X槓桿：157%(市價停利) 【+53.281 USD】
 買 0.4399/賣 0.4503，獲利：2.3%，20X槓桿：47% 【+32.4696 USD】
 (因為市價停利忘記把觸價單拿掉，所以又自己幫我買賣一次，好險有賺錢，這就是選多頭標的的好處嗎？)
-![](https://i.imgur.com/JN2KLdW.png)
+![OGNUSDT交易紀錄](https://i.imgur.com/JN2KLdW.png)
 
 3.KNCUSDT：買 2.87200/賣 3.02500，獲利：5.3%，20X槓桿：106%  【+65.637 USD】
-![](https://i.imgur.com/f9xVl9p.png)
+![KNCUSDT交易紀錄](https://i.imgur.com/f9xVl9p.png)
 
 4.1000XECUSDT：買 0.08088/賣；0.07891，虧損：-2.4%，20X槓桿：-48% 【-5.819 USD】
-![](https://i.imgur.com/157aBVB.png)
+![1000XECUSDT交易紀錄](https://i.imgur.com/157aBVB.png)
 
 
 
