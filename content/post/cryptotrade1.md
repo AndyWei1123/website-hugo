@@ -16,6 +16,7 @@ description: "加密貨幣有著「幣圈一天，人間一年」的恐怖傳說
 categories:
 - "七仔交易紀錄"
 ---
+![首圖](https://imgur.com/r9rt5wt.png)
 ![實際操作獲利，未平倉時1](https://i.imgur.com/L53FDdf.png)
 ![實際操作獲利，未平倉時2](https://i.imgur.com/IzIlp4j.png)
 (圖：實際操作獲利，未平倉時)
